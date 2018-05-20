@@ -1,3 +1,4 @@
-# Welcome to my blog
+# github-pages-101
 
-I'm glad you are here. I plan to talk about myself.
+I'm glad you are here. This is an output of learning the github course > [GitHub Pages](https://lab.github.com/courses/github-pages).
+
